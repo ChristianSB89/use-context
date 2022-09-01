@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ChristianSB89/use-context.git/static/css/main.073c9b0a.css",
+    "main.js": "/ChristianSB89/use-context.git/static/js/main.8fec383d.js",
+    "static/js/787.42a159ec.chunk.js": "/ChristianSB89/use-context.git/static/js/787.42a159ec.chunk.js",
+    "static/media/logo.svg": "/ChristianSB89/use-context.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ChristianSB89/use-context.git/index.html",
+    "main.073c9b0a.css.map": "/ChristianSB89/use-context.git/static/css/main.073c9b0a.css.map",
+    "main.8fec383d.js.map": "/ChristianSB89/use-context.git/static/js/main.8fec383d.js.map",
+    "787.42a159ec.chunk.js.map": "/ChristianSB89/use-context.git/static/js/787.42a159ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8fec383d.js"
+  ]
+}
